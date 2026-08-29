@@ -4,63 +4,67 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=1000&color=FFB000&center=true&vCenter=true&width=640&lines=Rishikesh+Kanikudiyil;Agentic+AI+%26+Full-Stack;LangGraph+%C2%B7+Next.js+%C2%B7+Flutter" alt="Rishikesh Kanikudiyil — Agentic AI and full-stack engineer">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=2800&pause=1000&color=FFB000&center=true&vCenter=true&width=800&height=60&lines=RISHIKESH+KANIKUDIYIL;AGENTIC+AI+%26+FULL-STACK;LANGGRAPH+%C2%B7+NEXT.JS+%C2%B7+FLUTTER" alt="Rishikesh Kanikudiyil — Agentic AI and full-stack engineer">
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/rishikesh-kanikudiyil-ftw"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://rishikeshkanikudiyil.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-FFB000?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"></a>
+<a href="mailto:rishikeshjoshy@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://leetcode.com/u/rishikeshjoshy/"><img src="https://img.shields.io/badge/LEETCODE-1A1A1A?style=for-the-badge&logo=leetcode&logoColor=FFB000" alt="LeetCode"></a>
 
 <br>
 
-<a href="https://www.linkedin.com/in/rishikesh-kanikudiyil-ftw"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://rishikeshkanikudiyil.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FFB000?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"></a>
-<a href="mailto:rishikeshjoshy@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://leetcode.com/u/rishikeshjoshy/"><img src="https://img.shields.io/badge/LeetCode-1A1A1A?style=for-the-badge&logo=leetcode&logoColor=FFB000" alt="LeetCode"></a>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=rishikeshjoshy&style=flat-square&color=FFB000&label=visitors" alt="profile views">
+<img src="https://komarev.com/ghpvc/?username=rishikeshjoshy&style=for-the-badge&color=FFB000&label=VISITORS" alt="profile views">
 
 </div>
 
 ---
 
-## 01 — what I build
+# 01 — What I Build
 
-I build **agentic systems** — supervisor architectures where a coordinating agent
-routes work to subagents that each own a narrow job. Most of my work sits at the
-seam where those systems meet a product someone actually has to use: a mobile app,
-a booking flow, a payment gateway.
+I build **agentic systems** — supervisor architectures where a coordinating agent routes work to subagents that each own a narrow job.
 
-Right now that means shipping a turf booking and tournament platform end to end,
-as the only developer on it.
+Most of my work sits where those systems meet a product someone actually has to use: a mobile app, a booking flow, a payment gateway. Right now that means shipping a turf booking and tournament platform end to end, as the only developer on it.
 
-**Currently** &nbsp;·&nbsp; Software Developer at Leno Sports — Flutter + Next.js + Supabase, sole dev
-**Focus** &nbsp;·&nbsp; Multi-agent orchestration with LangGraph and Google ADK
-**Also** &nbsp;·&nbsp; Red Services — my freelance development and design studio
-**Off-screen** &nbsp;·&nbsp; I shoot food, fashion and MMA. Ringside teaches you more about latency than any dashboard.
+### **Currently**
+Software Developer at **Leno Sports** — Flutter + Next.js + Supabase, sole developer.
 
-<sub>Final-year Computer Engineering · Pillai College of Engineering, New Panvel · Mumbai</sub>
+### **Focus**
+Multi-agent orchestration with **LangGraph** and **Google ADK**.
+
+### **Also**
+**Red Services** — my freelance development and design studio.
+
+### **Off-screen**
+I shoot food, fashion and MMA. Ringside teaches you more about latency than any dashboard.
+
+**Final-year Computer Engineering · Pillai College of Engineering, New Panvel · Mumbai**
 
 ---
 
-## 02 — stack
+# 02 — Stack
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,flutter,dart,nextjs,react,ts,js,tailwind,supabase,postgres,docker,git,github,vercel,threejs,figma&perline=9" alt="tech stack">
 
-<sub>
-
-**Agentic** LangGraph · Google ADK · Gemini · LlamaIndex · Pinecone &nbsp;&nbsp;|&nbsp;&nbsp;
-**ML** TensorFlow · TFLite · OpenCV &nbsp;&nbsp;|&nbsp;&nbsp;
-**Automation** n8n
-
-</sub>
-
 </div>
 
-<sub>Listed because I'd take a question on any of them. Nothing here is from a tutorial I did once.</sub>
+### **Agentic**
+`LangGraph` &nbsp; `Google ADK` &nbsp; `Gemini` &nbsp; `LlamaIndex` &nbsp; `Pinecone`
+
+### **Machine Learning**
+`TensorFlow` &nbsp; `TFLite` &nbsp; `OpenCV`
+
+### **Automation**
+`n8n` &nbsp; `Supabase Edge Functions`
+
+**Listed because I'd take a question on any of them.** Nothing here is from a tutorial I did once.
 
 ---
 
-## 03 — self-assessment, and the audit
+# 03 — Self-Assessment, and the Audit
 
 <div align="center">
 
@@ -71,10 +75,10 @@ as the only developer on it.
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="assets/radar-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
-  <img src="assets/radar-dark.svg" width="400" alt="self-rated skill radar">
+  <img src="assets/radar-dark.svg" width="420" alt="self-rated skill radar">
 </picture>
 
-<sub>what I claim</sub>
+**WHAT I CLAIM**
 
 </td>
 <td width="50%" align="center" valign="middle">
@@ -82,22 +86,22 @@ as the only developer on it.
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="assets/radar-langs-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg">
-  <img src="assets/radar-langs-dark.svg" width="400" alt="language radar from public repository bytes">
+  <img src="assets/radar-langs-dark.svg" width="420" alt="language radar from public repository bytes">
 </picture>
 
-<sub>what my public repos actually contain</sub>
+**WHAT MY PUBLIC REPOS CONTAIN**
 
 </td>
 </tr>
 </table>
 
-<sub>The right-hand chart only sees public code. Most of what I ship is client work under NDA, so it undercounts — that's a limitation of the chart, not a claim about the work.</sub>
-
 </div>
+
+The right-hand chart only sees public code. Most of what I ship is client work under NDA, so it undercounts — that's a limitation of the chart, not a claim about the work.
 
 ---
 
-## 04 — activity
+# 04 — Activity
 
 <div align="center">
 
@@ -116,36 +120,41 @@ as the only developer on it.
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="assets/card-stats-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/card-stats-light.svg">
-  <img src="assets/card-stats-dark.svg" width="480" alt="GitHub statistics">
+  <img src="assets/card-stats-dark.svg" width="520" alt="GitHub statistics">
 </picture>
 
 </div>
 
 ---
 
-## 05 — selected work
+# 05 — Selected Work
 
-<sub>Most of this is private — client repos and an employer codebase. Descriptions instead of links, because a card pointing at a 404 helps nobody.</sub>
+Most of this is private — client repos and an employer codebase. Descriptions instead of links, because a card pointing at a 404 helps nobody.
 
-<br>
+### **Leno Sports Platform** &nbsp;·&nbsp; *private*
 
-**Leno Sports Platform** — private
-Turf booking and tournament platform. Sole developer. Per-venue Razorpay configuration
-rather than separate merchant accounts, DigiLocker scoped to player registration only,
-hashed document deletion for compliance.
-`Flutter` `Next.js` `Supabase RLS` `Razorpay` `Setu DigiLocker` `n8n`
+Turf booking and tournament platform. Sole developer. Per-venue Razorpay configuration rather than separate merchant accounts, DigiLocker scoped to player registration only, hashed document deletion for compliance.
 
-**EVJourney** — academic, team of three
-Multi-agent EV trip planner. I owned the agentic backend: a LangGraph supervisor
-routing to three subagents over a shared state schema.
-`LangGraph` `Google ADK` `Gemini` `Flutter`
+`Flutter` &nbsp; `Next.js` &nbsp; `Supabase RLS` &nbsp; `Razorpay` &nbsp; `Setu DigiLocker` &nbsp; `n8n`
 
-**Portfolio** — [rishikeshkanikudiyil.vercel.app](https://rishikeshkanikudiyil.vercel.app)
+### **EVJourney** &nbsp;·&nbsp; *academic, team of three*
+
+Multi-agent EV trip planner. I owned the agentic backend: a LangGraph supervisor routing to three subagents over a shared state schema.
+
+`LangGraph` &nbsp; `Google ADK` &nbsp; `Gemini` &nbsp; `Flutter`
+
+### **Portfolio** &nbsp;·&nbsp; [rishikeshkanikudiyil.vercel.app](https://rishikeshkanikudiyil.vercel.app)
+
 Single-file brutalist build. No framework, no dependencies.
-`HTML` `CSS` `GSAP` `Lenis`
+
+`HTML` &nbsp; `CSS` &nbsp; `GSAP` &nbsp; `Lenis`
 
 ---
 
 <div align="center">
-<sub>Open to Agentic AI and full-stack engineering roles · <a href="mailto:rishikeshjoshy@gmail.com">rishikeshjoshy@gmail.com</a></sub>
+
+### **Open to Agentic AI and full-stack engineering roles**
+
+[rishikeshjoshy@gmail.com](mailto:rishikeshjoshy@gmail.com)
+
 </div>
