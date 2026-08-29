@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+Thumbs.db
+.DS_Store
+.venv/
+.DS_Store
+.venv/
+setup.ps1

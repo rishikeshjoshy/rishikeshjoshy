@@ -1,0 +1,12 @@
+{
+  "title": "Skill Radar",
+  "axes": [
+    { "label": "Agentic Systems", "value": 82 },
+    { "label": "Python", "value": 78 },
+    { "label": "Next.js / React", "value": 76 },
+    { "label": "Flutter", "value": 70 },
+    { "label": "ML / CV", "value": 62 },
+    { "label": "Supabase / DB", "value": 68 },
+    { "label": "DSA", "value": 58 }
+  ]
+}
